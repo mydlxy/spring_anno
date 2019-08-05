@@ -22,7 +22,7 @@ public class Service1 {
 	public void setUserdao(Userdao userdao) {
 		System.out.println("yong  le  setter...");
 		this.userdao = userdao;
-		
+		System.out.println("test git upload file again");
 		System.out.println("test git edit...file s ..");
 	}
 
