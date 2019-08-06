@@ -8,7 +8,7 @@ public class Userdao {
 	
 	public void gg() {
 		
-		System.out.println("Userdao 被调用了。。");
+		System.out.println("Userdao 寮哄己濮斿眻");
 	}
 
 }
